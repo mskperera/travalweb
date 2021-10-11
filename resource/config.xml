@@ -1,0 +1,13 @@
+<config version="5.2.0">
+  <swf width="720" height="540" scaleMode="noScale" alignMode="TL" preloaderSize="0" bgSoundLoop="true" publish="true" />
+  <preloader percentTextColor="16777215" bgColor="6710886" size="9445" url="resource/res/others/professional.swf">
+  </preloader>
+  <dataLoadControl size="24038" url="resource/res/others/datacontrol.swf" />
+  <player size="136414" url="resource/res/others/player.swf" />
+  <playMode startType="" playType="manualPlay" endType="showReplayButton" />
+  <imgDescription position="bottom" showType="auto" />
+  <maTempXMLData url="resource/res/others/template/template.xml" />
+  <bgMusicList src="resource/music.xml" />
+  <maAlbumListData url="resource/album.xml" />
+  
+</config>
